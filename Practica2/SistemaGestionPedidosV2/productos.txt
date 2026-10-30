@@ -1,0 +1,10 @@
+102;Jugo;1.25;27
+103;Sanduche;2.0;10
+104;Galleta;0.75;16
+101;cafe;1.5;20
+110;Empanada;1.25;20
+120;Brownie;1.75;10
+999;capuchino;2.5;20
+150;Cheesecake de fresa;4.0;15
+555;frape de chocolate;3.5;15
+144;Cafelatte;2.5;18
